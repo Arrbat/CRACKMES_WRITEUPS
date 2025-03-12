@@ -1,2 +1,3 @@
 # CRACKS_SOLVED
-My solved cracks. Solution provided. 
+My solved cracks. Solutions provided. 
+I specify the difficulty of cracks and their quality (in my opinion)
