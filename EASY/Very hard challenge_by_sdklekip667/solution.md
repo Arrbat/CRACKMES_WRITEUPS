@@ -1,3 +1,6 @@
+
+https://crackmy.app/crackmes/very-hard-challenge-by-sdklekip667-59585
+
 `main()` initializes the program and prints "please enter the key:".
 
 The user input is stored in key and later compared to a generated expected value.

@@ -1,3 +1,5 @@
+https://crackmes.one/crackme/66168bfdcddae72ae250c4c2
+
 Simple crackme, where there is need to find password
 ---
 

@@ -1,5 +1,4 @@
-# Crypt0 - Beginner CrackMe_by_Crypt0 C/C++ Windows x86
-Very easy crackme. 
+https://crackmes.one/crackme/5f907efe33c5d424269a15d1
 
 I have run the app, and saw that it requires username (and then password):
 

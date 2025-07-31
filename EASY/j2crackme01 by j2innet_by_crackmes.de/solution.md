@@ -1,3 +1,5 @@
+https://crackmes.one/crackme/5ab77f6333c5d40ad448ca8c
+
 Tool: Ghidra
 Second func in entry() is like basic app initialization. And here is the func main in the end.  (I renamed values and funcs)
 ```c

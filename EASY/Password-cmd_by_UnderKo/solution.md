@@ -1,4 +1,4 @@
-# Password-cmd_by_UnderKo C/C++ windows x64
+https://crackmes.one/crackme/678054fd4d850ac5f7dc4f6d
 
 First I loaded the .exe file with Ghidra, then started looking for some data like strings, it may help
 
